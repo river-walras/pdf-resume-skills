@@ -17,7 +17,7 @@ This skill depends on the `frontend-design` skill for generating polished UI. In
 
 ```bash
 npx skills add https://github.com/anthropics/skills --skill frontend-design
-npx skills add river-walras/resume-website
+npx skills add river-walras/pdf-resume-skills
 ```
 
 ## Usage
